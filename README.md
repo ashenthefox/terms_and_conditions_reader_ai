@@ -10,9 +10,9 @@ AI Provided by: Google
 <br>
 <h1>How to Download & Run</h1>
 <br>
-<h1>Simplest method: ZIP</h1>
+<h3>Simplest method: ZIP</h3>
 <br>Just click download zip on this repo on the center of your screen -w-. After extracting, drag the HTML file into chrome and enjoy ;3 (instructions provided inside the website)<br>
-<h2>Other Method</h2><br>
+<h3>Other Method</h3><br>
 1. Click on the .html file in this repo<br>
 2. Once you get into the editor, click on download raw file<br>
 3. Drag into chrome ;3c
